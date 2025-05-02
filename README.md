@@ -9,5 +9,6 @@ I was hoping to share this and see if anyone had a personal or lab EEG machine t
 
 The following code can be copied into Google Colab. Copy the part from import and before: Break! The little line of code can be placed in a new line of code and it will download the wave file. The code makes an hour long track. You can shorten or lengthen this by adjusting the numbers in the duration = section. You can also change the max differential by changing the freq_shift. I picked a base freq of 108. That part really doesn’t matter. I just find that tone to be a balance. Not to high not too low.
 
-Potential safety issues. I dont know that this is dangerous, but.. I did change the freq_shift to 30 one time. The audio effects and after effects were intense. Almost uncomfortable. SO YEE WARNED!
+Potential safety issues. I dont know that this is dangerous, but.. I did change the freq_shift to 30 one time. The audio effects and after effects were intense. Almost uncomfortable. SO YEE WARNED! INTENSE VERSION BELOW🔻
+https://github.com/Ishkei/Binaural-Doppler-Technique-Intense-Version-
 
